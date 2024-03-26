@@ -16,7 +16,7 @@ Clone this repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your_username/water-quality-observations-platform.git
+git clone <>
 Navigate to the project directory:
 
 bash
@@ -30,7 +30,7 @@ Start the containers:
 
 Copy code
 docker-compose up
-Access the FastAPI application at http://localhost:8000
+Access the FastAPI application at 
 
 Environment Variables
 POSTGRES_USER: PostgreSQL username
